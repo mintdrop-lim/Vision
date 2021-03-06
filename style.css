@@ -1,0 +1,38 @@
+body {
+    display: block;
+    text-align: center;
+    background-color: #AEE4CD;
+}
+
+#input {
+    margin-top: 20px;
+    background-color: #CDAEE4;
+    padding: 20px 50px;
+    border: 1px solid pink;
+}
+
+#input-submit-btn {
+    background-color: transparent;
+    font-size: 20px;
+    border: none;
+    margin-left: 20px;
+}
+
+#input-submit-btn:hover {
+    background-color: rgba(255, 164, 255, 0.589);
+    transform: scale(1.1);
+}
+
+#textarea {
+    height: 30px;
+    border: 1px solid #5fb0fc;
+    background-color: rgb(181, 222, 255);
+}
+
+.custom-class {
+    background-color: #E4CDAE;
+    display: block;
+    padding: 20px 50px;
+    margin-top: 20px;
+    border: 1px solid rgb(255, 197, 89);
+}
